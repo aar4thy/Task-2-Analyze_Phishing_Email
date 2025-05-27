@@ -5,6 +5,8 @@ Phishing is a cyberattack where attackers impersonate a trusted entity to trick 
 
 Objective:Identify phishing characteristics in a suspicious email sample.
 
+Tools Used:Email Client (Gmail),Free Online Email Header Analyzer(MXToolbox)
+
  Sample Phishing Email Overview:
 The email appears to be a Google Drive notification claiming that "goog__@protected-download.com" has shared a PDF document titled "CLICK HERE." It was sent at 3:06 PM IST on May 27, 2025, and includes a link to open the document.
 (Screenshot of sample email is uploaded)
